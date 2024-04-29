@@ -552,35 +552,9 @@ span{
         width: 30%;
       }
       .boost-img > img {
-        background-image: url(race-img1\ copy.png);
+        background-image: url(Images/race-img1\ copy.png);
         width: 100%;
       }
     
-    .footer{
-        padding-top:2rem;
-        background-image: url(Images/Layer\ 0.png);
-        background-size: cover;
-        color: white;
-        padding-bottom: 5rem;
-        display: flex;
-        flex-direction: column;   
-    }
-    .box1 {
-        display: flex;
-        flex-direction: column;
-        max-width: 100%;
-        margin-left: 2rem;
-      }
-    .box2 {
-        max-width: 100%;
-        margin: auto;
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-        margin-left: 2rem;
-        margin: 1vh 0 1vh 2rem;
-        align-items: center;
-        color:black;
-        
-      }
+      
 }
